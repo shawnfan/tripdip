@@ -4,7 +4,7 @@ angular.module('angularApp')
 '$scope',
 function($scope){
   $scope.test = "";
-  $scope.numTravellers = ["1 traveller", "2 traveller"];
+  $scope.numTravellers = ["1 traveller", "2 traveller", "3 traveller", "4 traveller"];
   $scope.numTraveller = "";
   $scope.interests = ["Casual", "Business", "Hipster", "Tourist"];
 
