@@ -1,4 +1,4 @@
-== TripDip
+## TripDip
 
 Demo project. Built on RubyOnRails + AngularJS + Angular Material Design
 

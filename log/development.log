@@ -57010,3 +57010,3051 @@ Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 12
 
 
 Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:36:19 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:40:34 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (186.2ms)
+Completed 200 OK in 262ms (Views: 261.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:41:14 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (128.0ms)
+Completed 200 OK in 193ms (Views: 193.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:14 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/application-ebe2f78a92289824ddb8b0788cf77369.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:15 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:41:22 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (113.7ms)
+Completed 200 OK in 173ms (Views: 172.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:22 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:22 -0500
+
+
+Started GET "/assets/application-82e80ca292d02b8f647002525cd3e99b.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:23 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (107.3ms)
+Completed 200 OK in 182ms (Views: 182.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/application-c36020e9195c690322866863b5952e50.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:38 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (102.8ms)
+Completed 200 OK in 153ms (Views: 153.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/application-95aff14bb60446baacf9190e4e7c1b44.css?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:41:46 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (96.9ms)
+Completed 200 OK in 148ms (Views: 147.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/application-e02704e9f2ccc2030448887d13eca161.css?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:11 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:12 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:12 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:12 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:12 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:12 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:12 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:12 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:12 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:42:31 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (102.2ms)
+Completed 200 OK in 155ms (Views: 154.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/application-f01491b45ec33e3342ea6387a28c5960.css?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:42:32 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:43:26 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (102.5ms)
+Completed 200 OK in 153ms (Views: 153.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/application-eb5b0b35e14ae2480ed5e5ec8f8d2d3a.css?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:43:27 -0500
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:43:46 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:43:46 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (99.1ms)
+Completed 200 OK in 152ms (Views: 152.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/application-91cb6768ac0ae8c0662717165c81cf3e.css?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:10 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (94.0ms)
+Completed 200 OK in 140ms (Views: 140.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/application-c846abe6d03c5e39579ddadd9ed48c63.css?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:39 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (96.7ms)
+Completed 200 OK in 150ms (Views: 149.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/application-9a771592b085141a85cd137b63179a5e.css?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:44:50 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (101.4ms)
+Completed 200 OK in 153ms (Views: 153.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/application-e62887700459ce34a9d9818d5e71e51e.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:05 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (99.9ms)
+Completed 200 OK in 155ms (Views: 154.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/application-d3b4723010a06e9109e6d65803d4e7ec.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:24 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:45:31 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (96.8ms)
+Completed 200 OK in 149ms (Views: 148.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/application-25983ff3441ab4253fba7b7922643c3d.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:32 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:45:42 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (99.1ms)
+Completed 200 OK in 149ms (Views: 148.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/application-aa670f280ac3f10054f1de131d626b3f.css?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:45:43 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:46:10 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (97.1ms)
+Completed 200 OK in 157ms (Views: 156.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/application-e7592fb329f2bbd91552e3cb576eb5cc.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:11 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (121.8ms)
+Completed 200 OK in 175ms (Views: 174.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/application-8e6b29c33a196d898b79b78e903b5296.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:27 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (97.2ms)
+Completed 200 OK in 153ms (Views: 152.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/application-e505b1db0e965b39fd48a4be416f4917.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:43 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (101.3ms)
+Completed 200 OK in 149ms (Views: 148.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/application-d733733c07eabc14dfaae8af60440d73.css?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:46:57 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (98.5ms)
+Completed 200 OK in 145ms (Views: 145.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/application-b058398230afc1464bf30c07087d115b.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:07 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (92.3ms)
+Completed 200 OK in 143ms (Views: 142.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/application-ff9faa8339db12f6e8ea4317aef9fec9.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:22 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (101.8ms)
+Completed 200 OK in 151ms (Views: 151.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/application-c0027dd4609f2c3f0498bb4237e41490.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:34 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (92.1ms)
+Completed 200 OK in 148ms (Views: 147.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/application-222281439d929098a201eca098d4c3fe.css?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:47:45 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (103.6ms)
+Completed 200 OK in 151ms (Views: 151.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/application-7e7c81f42b22995ccd6bbc89ec3eb397.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:08 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:48:19 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (101.9ms)
+Completed 200 OK in 154ms (Views: 154.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:19 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:19 -0500
+
+
+Started GET "/assets/application-f4432892e8bf48a3f8abc96c319172b8.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:19 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:19 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:19 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:19 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:19 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:19 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:20 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (101.3ms)
+Completed 200 OK in 148ms (Views: 148.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/application-d900be6dc2507044bb72e886adc5f097.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:32 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:33 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:33 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:33 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:48:46 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (107.0ms)
+Completed 200 OK in 161ms (Views: 161.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/application-15dcd70c70aa01915f169ef9dbab6775.css?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:48:47 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (105.1ms)
+Completed 200 OK in 159ms (Views: 159.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/application-81cd728299489d4acc94db5927dd3f4d.css?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:49:45 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (99.1ms)
+Completed 200 OK in 156ms (Views: 155.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/application-04f3e41f972a65d8939101a99177c2e2.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:04 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:50:13 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (99.9ms)
+Completed 200 OK in 151ms (Views: 150.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:13 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:13 -0500
+
+
+Started GET "/assets/application-071d8b4f3bf1b4526760174d52cde8f7.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:13 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:13 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:13 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:13 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:14 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:50:23 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (96.7ms)
+Completed 200 OK in 153ms (Views: 153.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:23 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:23 -0500
+
+
+Started GET "/assets/application-393e0095d584e502212cc1c6a1a1b4f5.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:23 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:23 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:23 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:23 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:23 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:23 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:24 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (99.7ms)
+Completed 200 OK in 157ms (Views: 156.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/application-da02437352ee9502eecbff1ddec50e86.css?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:50:47 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (107.4ms)
+Completed 200 OK in 158ms (Views: 157.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/application-6965d75d644170083a28ca5ba2b78a4d.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:01 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (103.6ms)
+Completed 200 OK in 158ms (Views: 157.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/application-b3165579f78c78d67dce1cf7c003de0c.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:11 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (103.4ms)
+Completed 200 OK in 155ms (Views: 154.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/application-2047543f3e66528aea3825c5717d1225.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:17 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (128.6ms)
+Completed 200 OK in 180ms (Views: 179.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/application-be237bfab31278f23f838f9d5269651c.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:27 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (100.3ms)
+Completed 200 OK in 154ms (Views: 153.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/application-31b20c45d3ed4bda356da7298d895d95.css?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:51:58 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (97.8ms)
+Completed 200 OK in 153ms (Views: 152.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/application-ec001865971934b38cbe150de7869796.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:12 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:52:17 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (98.3ms)
+Completed 200 OK in 150ms (Views: 149.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/application-544b6c4e78f7d5075bcf155745a07ea4.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:18 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (102.2ms)
+Completed 200 OK in 155ms (Views: 155.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/application-d0c0f8d5fa90796a96c17f6948066d28.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:27 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:28 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (105.4ms)
+Completed 200 OK in 154ms (Views: 153.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/application-69039c8282de49f110a2a3723a8780fb.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:40 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (98.9ms)
+Completed 200 OK in 157ms (Views: 156.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/application-37f90e6e3bccdb2b4cf2937b83f00083.css?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:52:50 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+Processing by ApplicationController#angular as HTML
+  Rendered layouts/application.html.erb within layouts/application (102.9ms)
+Completed 200 OK in 154ms (Views: 153.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-material/angular-material-d19347ca714e3035f39b2c5cdf768963.css?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons-b4f02cbd87657d70bad50786ae251e5f.css?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/application-371b96549bfc3879692cc2ad48e83bac.css?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/angular/angular-056f22cda9544bf4b8b51953b802a6e8.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/angular-rails-templates-660f8607a29c388f69bd0f7b335d5d13.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/angular-material/angular-material-59bf219eb2067a4c38f816aa004313b4.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b2ff1bd1d6f8a2b85f4e199e14f0340c.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/angular-aria/angular-aria-5d5c457dbb48cc17274004e0419e549c.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate-cb23d82f26e7a97249022a97f5898dd6.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/angular-material-icons/angular-material-icons.min-3a4d48bdec7e8a2898a80141b727a149.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/app-c1c1f09f3c101097b0a42db4fe215d49.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/home/_home-f24738305698f4a100f45740257d4945.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/home/homeCtrl-5d99d056695906025eac17e8f8eeb32d.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/itinerary/_itinerary-f35ba24914b83403102bf88237874b75.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/itinerary/itineraryCtrl-4bb7204e598335c8c041a0cc6a90f69d.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/nav/_nav-b222115413af4fb2060e53788a468a89.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/nav/navCtrl-dfd8cbd31f294702e9c2e22369aef00b.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/photo/_photo-023275dcec4f5d8309b2a0e375c9c96d.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/photo/photoCtrl-98aa694d43bb4bafcc2f0ed257599b23.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/trip/_trip-bf9f55816e44a857f7775b84725702f1.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/trip/tripCtrl-a19679f53cee3917eb837859a709d4e2.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
+
+
+Started GET "/assets/application-cbad9b017d7a9f7486963e1998475d28.js?body=1" for 127.0.0.1 at 2015-11-28 20:53:51 -0500
