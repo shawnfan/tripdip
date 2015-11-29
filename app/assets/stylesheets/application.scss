@@ -21,7 +21,7 @@ $main-text-color: #FFFFFF;
 $dark-text-color: #000000;
 $page-background-color:#4FC3F7;
 
-body {
+html,body {
 	background-color: $page-background-color;
 }
 
@@ -140,7 +140,6 @@ body {
 
 /*	ITINERARY PAGE*/
 #itinerary-page{
-	
 	color:$main-text-color;
 	background-color: $page-background-color;
 	width:100%;
@@ -162,6 +161,10 @@ body {
 /*	PHOTO PAGE*/
 #photo-page {
 	margin-top:50px;
+	color:$main-text-color;
+	background-color: $page-background-color;
+	width:100%;
+	height: 100%;
 	#photoDisplay{
 		width: 1000px;
 		margin:auto;
