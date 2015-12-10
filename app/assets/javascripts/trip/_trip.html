@@ -3,7 +3,7 @@
 	<div layout="row" layout-align="center start" id="wrap">
 		<div layout="column" flex="45"  id="left" flex>
 
-			<h3>Dinner With The Family</h3>
+			<h3>Dinner With The Friends</h3>
 			<p>Your bones don’t break, mine do. That’s clear. Your cells react to bacteria differently. You don’t get sick, I do. But for some reason you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We’re on the same curve, just on opposite ends.</p>
 			
 			<img ng-src="{{photo}}" class="md-whiteframe-4dp">
@@ -13,7 +13,8 @@
 		</div>
 		<div flex="5"></div>
 		<div flex="40" id="right">
-			<img ng-src="{{mapPic}}" class="md-whiteframe-2dp">
+			<img ng-click="click()" ng-src="{{mapPic}}" class="md-whiteframe-2dp">
+			<img ng-if="clicked" ng-src="{{yelpPic}}" class="md-whiteframe-2dp">
 		</div>
 	</div>
 </div>
