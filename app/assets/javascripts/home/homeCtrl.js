@@ -9,8 +9,17 @@ function($scope){
   $scope.interests = ["Casual", "Business", "Hipster", "Tourist"];
 
   $scope.photos = [
-	  "https://s3.amazonaws.com/tripdip/3a.+gristmill-waterfall-1-940x520.jpg",
-	  "https://s3.amazonaws.com/tripdip/3.b+church-bedroom-940x520.jpg",
-	  "https://s3.amazonaws.com/tripdip/3c.+image1-5.jpg"
+	"https://s3.amazonaws.com/tripdip/v2/trendingDestinationBeijin.jpg",
+	"https://s3.amazonaws.com/tripdip/v2/trendingDestinationGuangzhou.jpg",
+	"https://s3.amazonaws.com/tripdip/v2/trendingDestinationShanghai.jpg",
+	"https://s3.amazonaws.com/tripdip/v2/trendingDestinationTaiwan.jpg",
+	"https://s3.amazonaws.com/tripdip/v2/trendingDestinationYunnan.jpg"
+  ];
+
+	$scope.photosBiteOfChina = [
+	"https://s3.amazonaws.com/tripdip/v2/biteOfChina1.jpg",
+	"https://s3.amazonaws.com/tripdip/v2/biteOfChina2.jpg",
+	"https://s3.amazonaws.com/tripdip/v2/biteOfChina3.jpg",
+	"https://s3.amazonaws.com/tripdip/v2/biteOfChina4.jpg"
   ];
 }]);

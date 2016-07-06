@@ -7,6 +7,21 @@ angular.module('angularApp', ['ui.router', 'templates', 'ngMaterial', 'ngMdIcons
 			templateUrl:'home/_home.html',
 			controller:'HomeCtrl'
 		})
+		.state('settingFirst', {
+			url: '/settingFirst',
+			templateUrl:'settingFirst/_settingFirst.html',
+			controller:'SettingFirstCtrl'
+		})
+		.state('settingSecond', {
+			url: '/settingSecond',
+			templateUrl:'settingSecond/_settingSecond.html',
+			controller:'SettingSecondCtrl'
+		})
+		.state('settingPersonal', {
+			url: '/settingPersonal',
+			templateUrl:'settingPersonal/_settingPersonal.html',
+			controller:'SettingPersonalCtrl'
+		})
 		.state('itinerary', {
 			url: '/itinerary',
 			templateUrl:'itinerary/_itinerary.html',

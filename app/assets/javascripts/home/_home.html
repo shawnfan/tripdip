@@ -1,7 +1,7 @@
 <div id="home-page" layout="column" layout-align="center center">
-   <img src="https://s3.amazonaws.com/tripdip/2.+day-4-white-sands-best.jpg" id="home-bg" >
+   <img src="https://s3.amazonaws.com/tripdip/v2/backgroundPicture.jpg" id="home-bg" >
    <div layout="column" layout-align="center center" class="row" id="title">
-      <div id="start-adventure">START YOUR ADVENTURE</div>
+      <div id="start-adventure">Your local guide to Asia</div>
       <div id="hidden-treasure">Over 200+ hidden treasure places among two coasts waiting for you to explore</div>
    </div>
    <div layout="row" layout-align="center center" id="form" class="row">
@@ -11,51 +11,28 @@
             <input>
          </md-input-container>
       </div>
+      
       <div flex="none" class="item">
-         <md-datepicker ng-model="depart" md-placeholder="Departing" class="date-pick"></md-datepicker>
-      </div>
-      <div flex="none" class="item">
-         <md-datepicker ng-model="return" md-placeholder="Returning" class="date-pick"></md-datepicker>
-      </div>
-      <div flex="none" class="item">
-         <md-input-container style="margin-right: 10px;">
-            <label># Traveller</label>
-            <md-select ng-model="numTraveller">
-               <md-option ng-repeat="num in numTravellers" value="{{num}}">{{num}}</md-option>
-            </md-select>
-         </md-input-container>
-      </div>
-      <div flex="none" class="item">
-         <md-input-container >
-            <label>Budget</label>
-            <input>
-         </md-input-container>
-      </div>
-      <div flex="none" class="item">
-         <md-input-container style="margin-right: 10px;">
-            <label>Interests</label>
-            <md-select ng-model="pickInterest">
-               <md-option ng-repeat="interest in interests" value="{{interest}}">{{interest}}</md-option>
-            </md-select>
-         </md-input-container>
-      </div>
-      <div flex="none" class="item">
-         <md-button ng-href="#trip">Search</md-button>
+         <md-button ng-href="#trip">Click</md-button>
       </div>
    </div>
    <div layout="column" layout-align="center center" class="row" id="photos">
-      <div id="title3">Voice From The Bloggers</div>
-      <div id="title4">See where people are travelling, all around the world.</div>
+      <div id="title1">Trending Destinations</div>
+      <div layout="row">
+         <div ng-repeat="pic in photos">
+            <img ng-src="{{pic}}" class="md-whiteframe-10dp">
+         </div>
+      </div>
       <div>
          <md-button class="md-raised" ng-href="#itinerary">See All Itinerary Designs</md-button>
       </div>
-      <div id="title1">A Weekend That Never Ends</div>
-      <div id="title2">Discover new, inspiring places close to home.</div>
-      <div layout="row">
-         <div ng-repeat="pic in photos"  flex>
-            <img ng-src="{{pic}}" class="md-whiteframe-2dp">
+   </div>
+   <div layout="column" layout-align="center center" class="row" id="photos-biteOfChina">
+      <div id="title1">Watch A Bit of China</div>
+      <div layout="row" id="picGroup">
+         <div ng-repeat="pic in photosBiteOfChina">
+            <img ng-src="{{pic}}" class="md-whiteframe-10dp">
          </div>
       </div>
-      
    </div>
 </div>
