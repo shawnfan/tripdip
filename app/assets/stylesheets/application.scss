@@ -19,7 +19,7 @@
 /*Variables*/
 $main-text-color: #FFFFFF;
 $dark-text-color: #000000;
-$page-background-color:#4FC3F7;
+$page-background-color: #e6e6e6;
 
 html,body {
 	background-color: $page-background-color;
@@ -245,4 +245,46 @@ html,body {
 			border-radius:5px;
 		}
 	}
+}
+
+/* SETTING FIRST PAGE*/
+#setting-first-page {
+	margin: 50px;
+	.section {
+		margin: 10px 20px 10px 20px;
+	}
+
+	#form {
+		z-index:1;
+		background-color: rgba(255,255,255,0.3);
+		height: 100%;
+		border-radius: 0px;
+		margin: 0 10px 0 10px;
+		.item{
+			margin:10px;
+		}
+		.date-pick{
+			background-color:transparent;
+			input{
+				//font-size: 0.8em;
+				color: white;
+			}
+		}
+		.iconDiv {
+			text-align: center;
+		}
+		#nextBtn {
+			text-align: right;
+		}
+	}
+}
+
+
+
+/* Override*/
+.md-datepicker-calendar-pane {
+	background-color: white;
+}
+md-input-container {
+	padding-bottom:0px;	
 }

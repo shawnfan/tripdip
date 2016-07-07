@@ -1,1 +1,64 @@
-TEST1
+<div id="setting-first-page" layout="row" layout-align="center center">
+   <div flex>
+      <div layout="column" id="form">
+         <div class="section">
+            <p><span>1. Pick Your Date</span></p>
+            <span class="item">
+               <md-datepicker ng-model="depart" md-placeholder="Departing" class="date-pick"></md-datepicker>
+            </span>
+            <span  class="item">
+               <md-datepicker ng-model="return" md-placeholder="Returning" class="date-pick"></md-datepicker>
+            </span>
+         </div>
+         <div class="section">
+            <div layout="row">
+               <p flex="40"><span> 2. Visa Application Assistant</span> </p>
+               <md-checkbox ng-model="data.cb1" aria-label="Checkbox" flex="20"></md-checkbox>
+            </div>
+         </div>
+         <div class="section">
+            <p><span>3. Plan Your Trip</span></p>
+            <div layout="row">
+               <span class="item" flex="30">
+                  <md-input-container >
+                     <label>Start in Which City</label>
+                     <input>
+                  </md-input-container>
+               </span>
+               <span class="item" flex="30">
+                  <md-input-container >
+                     <label>End in Which City</label>
+                     <input>
+                  </md-input-container>
+               </span>
+            </div>
+         </div>
+         <div class="section">
+            <p><span>4. Vacation Type</span></p>
+            <div layout="row" >
+               <div flex ng-repeat="vType in vacationType" class="iconDiv">
+                  <img ng-src="{{vType.img}}" height="50px">
+                  <p>{{vType.title}}</p>
+               </div>
+
+            </div>
+         </div>
+         <div class="section">
+            <p><span>5. Budege</span></p>
+            <div layout="row" >
+               <div flex ng-repeat="bgt in budget" class="iconDiv">
+                  <img ng-src="{{bgt.img}}" height="50px">
+                  <p>{{bgt.title}}</p>
+               </div>
+
+            </div>
+         </div>
+         <div class="section" id="nextBtn">
+            <md-button class="md-raised" ng-href="#settingSecond">NEXT</md-button>
+         </div>
+      </div>
+   </div>
+   <div flex>
+      <img ng-src="{{map}}" width="100%">
+   </div>
+</div>
