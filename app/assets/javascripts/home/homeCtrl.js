@@ -22,4 +22,6 @@ function($scope){
 	"https://s3.amazonaws.com/tripdip/v2/biteOfChina3.jpg",
 	"https://s3.amazonaws.com/tripdip/v2/biteOfChina4.jpg"
   ];
+
+  	$scope.biteOfChinaVideoLink = "http://english.cntv.cn/special/a_bite_of_china/homepage/index.shtml";
 }]);

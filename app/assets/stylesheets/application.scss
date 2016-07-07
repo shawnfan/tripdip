@@ -17,20 +17,23 @@
  */
 
 /*Variables*/
-$main-text-color: #FFFFFF;
+$main-text-color: #F38181;
 $dark-text-color: #000000;
 $page-background-color: #e6e6e6;
+$tool-bar-color: #F38181;
+$tool-bar-text-color: #FFFFFF;
 
 html,body {
 	background-color: $page-background-color;
+	font-family: 'Roboto', sans-serif;
 }
 
 /*	NAVIGATION BAR*/
 #navBar{
 	position:relative;
-	margin-top:20px;
 	z-index:1;
-	color: $main-text-color;
+	color: $tool-bar-text-color;
+	background-color: $tool-bar-color;
 	div {
 		margin-left: 20px;
 		margin-right: 20px;
@@ -38,7 +41,7 @@ html,body {
 	}
 	
 	a {
-		color: $main-text-color;
+		color: $tool-bar-text-color;
 		text-decoration: none;
 	}
 
@@ -51,7 +54,7 @@ html,body {
 
 	/*	Specific ones	*/
 	#home-icon {
-		font-size: 40px;
+
 		a {
 			margin: 0 20px 0 20px;
 		}
@@ -62,11 +65,15 @@ html,body {
 		span{
 			position:absolute;
 		}
+		#chanyouji{
+			height: 40px;
+		}
+
 	}
 	#blogger-entrance{
 		border-style:solid;
 		border-width:2px;
-		border-color:$main-text-color;
+		border-color:$tool-bar-text-color;
 		border-radius:5px;
 		padding:5px;
 	}
@@ -89,6 +96,8 @@ html,body {
 	}
 	#title{
 		z-index:1;
+		font-weight: bold;
+		font-family: 'Roboto', sans-serif;
 		#start-adventure{
 			font-size: 3em;
 			color: $main-text-color;
@@ -102,17 +111,19 @@ html,body {
 	#form {
 		z-index:1;
 		background-color: rgba(255,255,255,0.7);
-		height: 70px;
-		padding-top:10px;
+		height: 50px;
+		width: auto;
 		border-radius: 10px;
-		.item{
-			margin:10px;
-		}
+		
 		.date-pick{
 			background-color:transparent;
 			input{
 				//font-size: 0.8em;
 			}
+		}
+		#clickBtn {
+			text-align: bottom;
+
 		}
 	}
 
@@ -121,10 +132,14 @@ html,body {
 		#title1, #title3{
 			font-size: 2em;
 			color: $main-text-color;
+			font-weight: bold;
+			font-family: 'Roboto', sans-serif;
 		}
 		#title2, #title4{
 			font-size: 1em;
 			color: $main-text-color;
+			font-weight: bold;
+			font-family: 'Roboto', sans-serif;
 		}
 		img {
 			width: 100%;
@@ -140,6 +155,8 @@ html,body {
 			text-align: center;
 			font-size: 2em;
 			color: $main-text-color;
+			font-weight: bold;
+			font-family: 'Roboto', sans-serif;
 		}
 		#picGroup {
 			width: 70%;
@@ -157,12 +174,14 @@ html,body {
 
 	/*Config background*/
 	#home-bg {
-	 position: fixed; 
-	  top: 0; 
-	  left: 0; 
-	  min-width: 100%;
-	  min-height: 100%;
+		position: fixed; 
+		top: 0; 
+		left: 0; 
+		min-height: 100%;
+		min-width: auto;
 	}
+
+	
 }
 
 #md-date-pane3,#md-date-pane4 {
