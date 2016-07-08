@@ -35,9 +35,11 @@ html,body {
 	color: $tool-bar-text-color;
 	background-color: $tool-bar-color;
 	div {
-		margin-left: 20px;
-		margin-right: 20px;
-		font-size:20px;
+		margin-left: 10px;
+		margin-right: 10px;
+		font-size:15px;
+		font-weight: bold;
+		font-family: 'Roboto', sans-serif;
 	}
 	
 	a {
@@ -46,27 +48,26 @@ html,body {
 	}
 
 	#profile-pic {
-		width: 40px;
-		height: 40px;
+		width: 30px;
+		height: 30px;
 		border-radius:20px;
 		margin-top: 4px;
 	}
 
 	/*	Specific ones	*/
 	#home-icon {
-
 		a {
-			margin: 0 20px 0 20px;
+			margin: 0 10px 0 10px;
 		}
 		img{
-			height: 60px;
+			height: 35px;
 			width: auto;
 		}
 		span{
 			position:absolute;
 		}
 		#chanyouji{
-			height: 40px;
+			height: 25px;
 		}
 
 	}
@@ -78,7 +79,7 @@ html,body {
 		padding:5px;
 	}
 	.icon {
-		margin-top: -30px;
+		margin-top: -5px;
 	}
 }
 
@@ -291,10 +292,18 @@ html,body {
 		}
 		.iconDiv {
 			text-align: center;
+			outline-style: none;
 		}
 		#nextBtn {
 			text-align: right;
 		}
+
+		#step1 {
+			text-align: center;
+			margin: 10px 20px -10px 20px;
+			font-size: 1.5em;
+		}
+
 	}
 }
 
