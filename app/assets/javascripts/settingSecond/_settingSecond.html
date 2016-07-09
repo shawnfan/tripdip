@@ -36,24 +36,38 @@
 
 
          </div>
-         <div class="section">
-         	 <md-content>
+         <div class="section" layout="column">
+         <md-content flex>
+             <md-list>
+               <md-subheader class="md-no-sticky">
+              
+                   <h2 flex="">HangZhou Trip</h2>
+               </md-subheader>
+                 <div  layout="row" >
+                   <md-button flex="13" ng-repeat="res in result">{{res.day}}</md-button>
+                 </div>
+                 <md-divider ></md-divider>
+             </md-list>
+
+           </md-content>
+
+         	 <md-content flex>
 			    <md-list>
 			      <md-subheader class="md-no-sticky">
 					<div class="md-list-item-text" layout="row">
-			          <h2 flex="25">HangZhou Trip</h2>
 			          <h2 flex="25">Lodging</h2>
-			          <h2 flex="15">Icon</h2>
 			          <h2 flex="35">Destination</h2>
 			        </div>
  					<md-divider ></md-divider>
 			      </md-subheader>
 			      <md-list-item class="md-3-line" ng-repeat="res in result">
 			        <div class="md-list-item-text" layout="row">
-			          <div flex="25">{{res.day}}</div>
 			          <div flex="25">{{res.time}}</div>
-			          <div flex="15">{{res.seq}}</div>
-			          <div flex="35">{{res.loc}}</div>
+			          
+			          <div flex="35">
+                     <img ng-src="{{res.icon}}" class="icon">
+                     <span class="destText">{{res.loc}}</span>
+                   </div>
 			        </div>
 			        <md-divider ng-if="!$last" class="divider"></md-divider>
 			      </md-list-item>
