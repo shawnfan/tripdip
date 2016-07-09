@@ -43,8 +43,8 @@
               
                    <h2 flex="">HangZhou Trip</h2>
                </md-subheader>
-                 <div  layout="row" >
-                   <md-button flex="13" ng-repeat="res in result">{{res.day}}</md-button>
+                 <div layout="row" >
+                   <md-button flex="15" ng-repeat="day in days" class="weekBtn">{{day}}</md-button>
                  </div>
                  <md-divider ></md-divider>
              </md-list>
@@ -55,17 +55,17 @@
 			    <md-list>
 			      <md-subheader class="md-no-sticky">
 					<div class="md-list-item-text" layout="row">
-			          <h2 flex="25">Lodging</h2>
+			          <h2 flex="30">Lodging</h2>
+                    <div flex="25"></div>
 			          <h2 flex="35">Destination</h2>
 			        </div>
  					<md-divider ></md-divider>
 			      </md-subheader>
 			      <md-list-item class="md-3-line" ng-repeat="res in result">
 			        <div class="md-list-item-text" layout="row">
-			          <div flex="25">{{res.time}}</div>
-			          
+			          <div flex="30">{{res.time}}</div>
+			          <div flex="25"><img ng-src="{{res.icon}}" class="icon"></div>
 			          <div flex="35">
-                     <img ng-src="{{res.icon}}" class="icon">
                      <span class="destText">{{res.loc}}</span>
                    </div>
 			        </div>
@@ -75,13 +75,13 @@
 			  </md-content>
          </div>
          <div class="section" layout="row" >
-            <div id="nextBtn" flex>
+            <div id="nextBtn" flex="30">
                <md-button class="md-raised" >Save To Phone</md-button>
             </div>
-            <div  id="nextBtn" flex>
+            <div  id="nextBtn" flex="25">
                <md-button class="md-raised" >Book</md-button>
             </div>
-            <div id="nextBtn" flex>
+            <div id="nextBtn" flex="35">
                <md-button class="md-raised" >Send To Friend</md-button>
             </div>
          </div>

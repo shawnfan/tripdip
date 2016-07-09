@@ -109,6 +109,7 @@ html,body {
 
 		}
 		#subTitle {
+			font-family: 'Roboto', sans-serif;
 			color: $main-text-color;
 		}
 		#hidden-treasure {
@@ -354,6 +355,8 @@ html,body {
 		}
 		#nextBtn {
 			text-align: left;
+			margin-left: 0px;
+			margin-right: -5px;		
 		}
 
 		#step1 {
@@ -372,8 +375,11 @@ html,body {
 		}
 		.destText {
 			position: absolute;
-			margin-left: 10px;
 			margin-top: 5px;
+		}
+		.weekBtn {
+			margin-left: 0px;
+			margin-right: 25px;		
 		}
 
 	}
