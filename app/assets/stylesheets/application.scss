@@ -318,10 +318,9 @@ html,body {
 }
 
 /* SETTING SECOND PAGE*/
-
-/* SETTING FIRST PAGE*/
 #setting-second-page {
 	margin: 50px;
+	font-family: 'Roboto', sans-serif;
 	.section {
 		margin: 10px 20px 10px 20px;
 	}
@@ -380,6 +379,10 @@ html,body {
 		.weekBtn {
 			margin-left: 0px;
 			margin-right: 25px;		
+		}
+
+		#tripTitle {
+			text-align: center;
 		}
 
 	}
