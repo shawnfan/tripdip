@@ -106,11 +106,16 @@ html,body {
 			img {
 				width: 70%;
 			}
+
+		}
+		#subTitle {
+			color: $main-text-color;
 		}
 		#hidden-treasure {
 			font-size: 1em;
 			color: $main-text-color;
 		}
+
 	}
 	
 	#form {
@@ -361,6 +366,43 @@ html,body {
 			width: 95%;
 			margin:  0 10px 0 10px;
 		}
+
+	}
+}
+
+
+/* SETTING PERSONALITY PAGE*/
+#setting-personality-page {
+	margin: 50px;
+	.section {
+		margin: 10px 20px 10px 20px;
+	}
+
+	#form {
+		z-index:1;
+		background-color: rgba(255,255,255,0.3);
+		height: 100%;
+		border-radius: 0px;
+		margin: 0 10px 0 10px;
+
+		.component {
+			.switch  {
+				position: absolute;
+				z-index: 2;
+				margin-top: -40px;
+				font-size: 1.2em;
+				font-weight: bold;
+				color: $main-text-color;
+			}
+		}
+
+		#step1 {
+			text-align: center;
+			margin: 10px 20px -10px 20px;
+			font-size: 1.5em;
+		}
+
+
 
 	}
 }

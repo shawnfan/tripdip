@@ -1,18 +1,23 @@
-<div id="setting-second-page" layout="row" layout-align="center center">
+<div id="setting-personality-page" layout="row" layout-align="center center">
    <div flex>
       <div layout="column" id="form">
          <div class="section" id="step1">
-            <p>Step 2 : Refine your trip</p>
+            <p>Know the Best Way to Travel by Knowing yourself (Pick Your top 3 choices)</p>
          </div>
          <div class="section" layout="row" layout-wrap>
-           <div><img ng-src=""></div>
-			
-
+         <div flex="25" ng-repeat="setting in personalityImg" class="component">
+            <img ng-src="{{setting.img}}" >
+            <md-switch ng-model="data" class="switch">{{setting.title}}</md-switch>
+            
+            </div>
          </div>
-       
-         <div class="section" layout="row" >
-            <div id="nextBtn" flex>
-               <md-button class="md-raised" >Confirm</md-button>
+       	
+       	<div class="section" layout="row" >
+            <div  >
+               <md-button class="md-raised" ng-href="#home">Return</md-button>
+            </div>
+             <div >
+               <md-button class="md-raised" ng-click="showConfirm($event)">Confirm</md-button>
             </div>
          </div>
       </div>
