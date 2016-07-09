@@ -307,6 +307,60 @@ html,body {
 	}
 }
 
+/* SETTING SECOND PAGE*/
+
+/* SETTING FIRST PAGE*/
+#setting-second-page {
+	margin: 50px;
+	.section {
+		margin: 10px 20px 10px 20px;
+	}
+
+	#form {
+		z-index:1;
+		background-color: rgba(255,255,255,0.3);
+		height: 100%;
+		border-radius: 0px;
+		margin: 0 10px 0 10px;
+		.item{
+			.slider {
+				width: 60%;
+				padding-left: 10%;
+			}
+			span {
+				padding-left: 25%;
+			}
+
+		}
+		.date-pick{
+			background-color:transparent;
+			input{
+				//font-size: 0.8em;
+				color: white;
+			}
+		}
+		.iconDiv {
+			text-align: center;
+			outline-style: none;
+		}
+		#nextBtn {
+			text-align: left;
+		}
+
+		#step1 {
+			text-align: center;
+			margin: 10px 20px -10px 20px;
+			font-size: 1.5em;
+		}
+
+		.divider {
+			width: 95%;
+			margin:  0 10px 0 10px;
+		}
+
+	}
+}
+
 
 
 /* Override*/
