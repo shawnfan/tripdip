@@ -102,6 +102,10 @@ html,body {
 		#start-adventure{
 			font-size: 3em;
 			color: $main-text-color;
+			text-align: center;
+			img {
+				width: 70%;
+			}
 		}
 		#hidden-treasure {
 			font-size: 1em;

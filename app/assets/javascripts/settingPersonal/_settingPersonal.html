@@ -5,61 +5,11 @@
             <p>Step 2 : Refine your trip</p>
          </div>
          <div class="section" layout="row" layout-wrap>
-           
-			<div class="item" flex="50"><span>History</span>
-            <md-slider flex min="0" max="255" ng-model="history" class = "slider" ></md-slider>
-            </div>
-            <div class="item" flex="50"><span>Cuisine</span>
-            <md-slider flex min="0" max="255" ng-model="cuisine" class = "slider"></md-slider>
-            </div>
-
-            <div class="item" flex="50"><span>Music</span>
-            <md-slider flex min="0" max="255" ng-model="music" class = "slider"></md-slider>
-            </div>
-            <div class="item" flex="50"><span>Entertainment</span>
-            <md-slider flex min="0" max="255" ng-model="entertainment" class = "slider"></md-slider>
-            </div>
-
-            <div class="item" flex="50"><span>Modern</span>
-            <md-slider flex min="0" max="255" ng-model="modern" class = "slider"></md-slider>
-            </div>
-            <div class="item" flex="50"><span>Nature</span>
-            <md-slider flex min="0" max="255" ng-model="nature" class = "slider"></md-slider>
-            </div>
-
-            <div class="item" flex="50"><span>Culture</span>
-            <md-slider flex min="0" max="255" ng-model="culture" class = "slider"></md-slider>
-            </div>
-            <div class="item" flex="50"><span>Shopping</span>
-            <md-slider flex min="0" max="255" ng-model="shopping" class = "slider"></md-slider>
-            </div>
-
+           <div><img ng-src=""></div>
+			
 
          </div>
-         <div class="section">
-         	 <md-content>
-			    <md-list>
-			      <md-subheader class="md-no-sticky">
-					<div class="md-list-item-text" layout="row">
-			          <h2 flex="25">HangZhou Trip</h2>
-			          <h2 flex="25">Lodging</h2>
-			          <h2 flex="15">Icon</h2>
-			          <h2 flex="35">Destination</h2>
-			        </div>
- 					<md-divider ></md-divider>
-			      </md-subheader>
-			      <md-list-item class="md-3-line" ng-repeat="res in result">
-			        <div class="md-list-item-text" layout="row">
-			          <div flex="25">{{res.day}}</div>
-			          <div flex="25">{{res.time}}</div>
-			          <div flex="15">{{res.seq}}</div>
-			          <div flex="35">{{res.loc}}</div>
-			        </div>
-			        <md-divider ng-if="!$last" class="divider"></md-divider>
-			      </md-list-item>
-			    </md-list>
-			  </md-content>
-         </div>
+       
          <div class="section" layout="row" >
             <div id="nextBtn" flex>
                <md-button class="md-raised" >Confirm</md-button>
