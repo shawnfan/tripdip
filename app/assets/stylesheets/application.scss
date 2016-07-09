@@ -20,8 +20,8 @@
 $main-text-color: #ffffff;
 $dark-text-color: #000000;
 $page-background-color: #e6e6e6;
-$tool-bar-color: #F38181;
-$tool-bar-text-color: #FFFFFF;
+$theme-color: #F38181;
+$theme-text-color: #FFFFFF;
 
 html,body {
 	background-color: $page-background-color;
@@ -32,8 +32,8 @@ html,body {
 #navBar{
 	position:relative;
 	z-index:1;
-	color: $tool-bar-text-color;
-	background-color: $tool-bar-color;
+	color: $theme-text-color;
+	background-color: $theme-color;
 	div {
 		margin-left: 10px;
 		margin-right: 10px;
@@ -43,7 +43,7 @@ html,body {
 	}
 	
 	a {
-		color: $tool-bar-text-color;
+		color: $theme-text-color;
 		text-decoration: none;
 	}
 
@@ -74,7 +74,7 @@ html,body {
 	#blogger-entrance{
 		border-style:solid;
 		border-width:2px;
-		border-color:$tool-bar-text-color;
+		border-color:$theme-text-color;
 		border-radius:5px;
 		padding:5px;
 	}
@@ -404,6 +404,9 @@ html,body {
 		margin: 0 10px 0 10px;
 
 		.component {
+			img {
+				width: 100%;
+			}
 			.switch  {
 				position: absolute;
 				z-index: 2;
