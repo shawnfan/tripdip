@@ -17,7 +17,7 @@ function($scope){
 		{"time": "10:45am-11:45am",		"icon": "https://s3.amazonaws.com/tripdip/v2/icon_restaurant.png", 	"loc":"Sam's Café (Breakfast)"},
 		{"time": "12:30pm-2:30pm",		"icon": "https://s3.amazonaws.com/tripdip/v2/icon_zoo.png", 	"loc":"Hangzhou Zoo"},
 		{"time": "3:00pm-5:00pm",		"icon": "https://s3.amazonaws.com/tripdip/v2/icon_museum.png", 	"loc":"Zhejiang Tea Museum"},
-		{"time": "5:45pm-7:45pm",		"icon": "https://s3.amazonaws.com/tripdip/v2/icon_restaurant.png", 	"loc":"Shan Wai Shan Restaurant (Dinner)"},
+		{"time": "5:45pm-7:45pm",		"icon": "https://s3.amazonaws.com/tripdip/v2/icon_restaurant.png", 	"loc":"Shan Wai Shan Restaurant"},
 		{"time": "9:30pm-10:30pm",		"icon": "https://s3.amazonaws.com/tripdip/v2/icon_bar.png", 	"loc":"Black Swan Bar"}
 	];
 }]);
