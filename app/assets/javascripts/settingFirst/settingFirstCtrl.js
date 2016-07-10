@@ -70,7 +70,6 @@ function($scope){
 				$scope.vacationType[i].img = $scope.vacationType[i].img1;
 			}
 		}
-		$scope.triggerMap(2);
 	};
 	$scope.updateBudgetType = function(index) {
 		for (var i = 0; i < $scope.budget.length; i++) {
@@ -80,5 +79,6 @@ function($scope){
 				$scope.budget[i].img = $scope.budget[i].img1;
 			}
 		}
+		$scope.triggerMap(2);
 	};
 }]);

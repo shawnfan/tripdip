@@ -30,7 +30,7 @@ function($scope, $mdDialog){
 		},
 		{
 			"img": "https://s3.amazonaws.com/tripdip/v2/p_relaxing.jpg",
-			"title": "Realaxing"
+			"title": "Relaxing"
 		},
 		{
 			"img": "https://s3.amazonaws.com/tripdip/v2/p_social.jpg",
