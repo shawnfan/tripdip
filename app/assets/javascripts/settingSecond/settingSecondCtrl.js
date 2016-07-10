@@ -3,7 +3,7 @@ angular.module('angularApp')
 .controller('SettingSecondCtrl', [
 '$scope',
 function($scope){
-	$scope.map = "https://s3.amazonaws.com/tripdip/GoogleMap.png";
+	$scope.map = "https://s3.amazonaws.com/tripdip/v2/route0.jpg";
 	$scope.mainColor = "#F38181";
 	$scope.days = [
 		"  Monday (8/1)    ",
@@ -20,4 +20,46 @@ function($scope){
 		{"time": "5:45pm-7:45pm",		"icon": "https://s3.amazonaws.com/tripdip/v2/icon_restaurant.png", 	"loc":"Shan Wai Shan Restaurant"},
 		{"time": "9:30pm-10:30pm",		"icon": "https://s3.amazonaws.com/tripdip/v2/icon_bar.png", 	"loc":"Black Swan Bar"}
 	];
+
+	$scope.routes = [
+		"https://s3.amazonaws.com/tripdip/v2/route0.jpg",
+		"https://s3.amazonaws.com/tripdip/v2/route1.jpg",
+		"https://s3.amazonaws.com/tripdip/v2/route2.jpg",
+		"https://s3.amazonaws.com/tripdip/v2/route3.jpg",
+		"https://s3.amazonaws.com/tripdip/v2/route4.jpg"
+	];
+
+	$scope.updateMap = function() {
+		var count = 0;
+		if ($scope.history > 100) {
+			count++;
+		}
+		if ($scope.music > 100) {
+			count++;
+		}
+		if ($scope.morden > 100) {
+			count++;
+		}
+		if ($scope.culture > 100) {
+			count++;
+		}
+		if ($scope.cuisine > 100) {
+			count++;
+		}
+		if ($scope.entertainment > 100) {
+			count++;
+		}
+		if ($scope.nature > 100) {
+			count++;
+		}
+		if ($scope.shoping > 100) {
+			count++;
+		}
+
+		if (count >= 4) {
+			count = 4;
+		}
+		$scope.map = $scope.routes[count];
+		console.log($scope.map);
+	};
 }]);

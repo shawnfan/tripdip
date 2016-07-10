@@ -1,6 +1,6 @@
 <div id="setting-first-page" layout="row" layout-align="center center">
-   <div flex>
-      <div layout="column" id="form">
+   
+      <div layout="column" flex="50">
          <div class="section" id="step1">
             <p>Step 1 : Define your trip</p>
          </div>
@@ -61,8 +61,9 @@
             <md-button class="md-raised" ng-href="#settingSecond">NEXT</md-button>
          </div>
       </div>
-   </div>
-   <div flex>
-      <img ng-src="{{map}}" width="100%">
-   </div>
+
+      <div id="map" flex="50">
+         <img ng-src="{{map}}" class="md-whiteframe-7dp" ng-if="mapTrigger" width="100%">
+      </div>
+
 </div>

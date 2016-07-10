@@ -280,40 +280,47 @@ html,body {
 /* SETTING FIRST PAGE*/
 #setting-first-page {
 	margin: 50px;
+	height: 100%;
+
+	z-index:1;
+	background-color: rgba(255,255,255,0.3);
+	height: 100%;
+	border-radius: 0px;
+	margin: 20px;
+
 	.section {
 		margin: 10px 20px 10px 20px;
 	}
 
-	#form {
-		z-index:1;
-		background-color: rgba(255,255,255,0.3);
+	.item{
+		margin:10px;
+	}
+	.date-pick{
+		background-color:transparent;
+		input{
+			//font-size: 0.8em;
+			color: black;
+		}
+	}
+	.iconDiv {
+		text-align: center;
+		outline-style: none;
+	}
+	#nextBtn {
+		text-align: right;
+	}
+
+	#step1 {
+		text-align: center;
+		margin: 10px 20px -10px 20px;
+		font-size: 1.5em;
+	}
+
+	
+	#map {
+		z-index: 2;
 		height: 100%;
-		border-radius: 0px;
-		margin: 0 10px 0 10px;
-		.item{
-			margin:10px;
-		}
-		.date-pick{
-			background-color:transparent;
-			input{
-				//font-size: 0.8em;
-				color: black;
-			}
-		}
-		.iconDiv {
-			text-align: center;
-			outline-style: none;
-		}
-		#nextBtn {
-			text-align: right;
-		}
-
-		#step1 {
-			text-align: center;
-			margin: 10px 20px -10px 20px;
-			font-size: 1.5em;
-		}
-
+		margin-right: 40px;
 	}
 }
 
@@ -325,67 +332,73 @@ html,body {
 		margin: 10px 20px 10px 20px;
 	}
 
-	#form {
-		z-index:1;
-		background-color: rgba(255,255,255,0.3);
-		height: 100%;
-		border-radius: 0px;
-		margin: 0 10px 0 10px;
-		.item{
-			.slider {
-				width: 60%;
-				padding-left: 10%;
-			}
-			span {
-				padding-left: 25%;
-			}
 
+	z-index:1;
+	background-color: rgba(255,255,255,0.3);
+	height: 100%;
+	border-radius: 0px;
+	margin: 20px;
+	.item{
+		.slider {
+			width: 60%;
+			padding-left: 10%;
 		}
-		.date-pick{
-			background-color:transparent;
-			input{
-				//font-size: 0.8em;
-				color: white;
-			}
-		}
-		.iconDiv {
-			text-align: center;
-			outline-style: none;
-		}
-		#nextBtn {
-			text-align: left;
-			margin-left: 0px;
-			margin-right: -5px;		
-		}
-
-		#step1 {
-			text-align: center;
-			margin: 10px 20px -10px 20px;
-			font-size: 1.5em;
-		}
-
-		.divider {
-			width: 95%;
-			margin:  0 10px 0 10px;
-		}
-		.icon {
-			height: 30px;
-			width: auto;
-		}
-		.destText {
-			position: absolute;
-			margin-top: 5px;
-		}
-		.weekBtn {
-			margin-left: 0px;
-			margin-right: 25px;		
-		}
-
-		#tripTitle {
-			text-align: center;
+		span {
+			padding-left: 25%;
 		}
 
 	}
+	.date-pick{
+		background-color:transparent;
+		input{
+			//font-size: 0.8em;
+			color: white;
+		}
+	}
+	.iconDiv {
+		text-align: center;
+		outline-style: none;
+	}
+	
+	#step1 {
+		text-align: center;
+		margin: 10px 20px -10px 20px;
+		font-size: 1.5em;
+	}
+
+	.divider {
+		width: 95%;
+		margin:  0 10px 0 10px;
+	}
+	.icon {
+		height: 30px;
+		width: auto;
+	}
+	.destText {
+		position: absolute;
+		margin-top: 5px;
+	}
+	.weekBtn {
+		margin-left: 0px;
+		margin-right: 25px;		
+	}
+
+	#tripTitle {
+		text-align: center;
+	}
+
+	#map {
+		z-index: 2;
+		height: 100%;
+		margin-right: 40px;
+	}
+
+	.sheet {
+		margin: 10px 20px 10px 20px;
+		margin-top: 30px;
+		
+	}
+	
 }
 
 
