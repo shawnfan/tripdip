@@ -32,7 +32,7 @@
                <span class="item" flex="30">
                   <md-input-container >
                      <label>End in Which City</label>
-                     <input>
+                     <input ng-click="triggerMap(1)">
                   </md-input-container>
                </span>
             </div>
@@ -62,7 +62,7 @@
          </div>
       </div>
 
-      <div id="map" flex="50"  ng-if="mapTrigger" >
+      <div id="map" flex="50"  >
          <img ng-src="{{map}}" class="md-whiteframe-7dp"width="100%">
       </div>
 

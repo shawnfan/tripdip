@@ -50,10 +50,16 @@ function($scope){
 			"img2": 	"https://s3.amazonaws.com/tripdip/v2/expensiveSelected.png"
 		}
 	];
-	$scope.mapTrigger = false;
+
+	$scope.maps = [
+		"https://s3.amazonaws.com/tripdip/v2/china.jpg",
+		"https://s3.amazonaws.com/tripdip/v2/hangzhou.jpg",
+		"https://s3.amazonaws.com/tripdip/v2/route0.jpg"
+	];
+	$scope.map = "https://s3.amazonaws.com/tripdip/v2/china.jpg";
+	$scope.triggerMap
 	$scope.triggerMap = function(value) {
-		$scope.mapTrigger = true;
-		$scope.map = "https://s3.amazonaws.com/tripdip/v2/route0.jpg";
+		$scope.map = $scope.maps[value];
 	};
 
 	$scope.updateVacationType = function(index) {
@@ -64,7 +70,7 @@ function($scope){
 				$scope.vacationType[i].img = $scope.vacationType[i].img1;
 			}
 		}
-		$scope.triggerMap(index);
+		$scope.triggerMap(2);
 	};
 	$scope.updateBudgetType = function(index) {
 		for (var i = 0; i < $scope.budget.length; i++) {
