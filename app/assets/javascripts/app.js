@@ -17,6 +17,11 @@ angular.module('angularApp', ['ui.router', 'templates', 'ngMaterial', 'ngMdIcons
 			templateUrl:'settingSecond/_settingSecond.html',
 			controller:'SettingSecondCtrl'
 		})
+		.state('settingThird', {
+			url: '/settingThird',
+			templateUrl:'settingThird/_settingThird.html',
+			controller:'SettingThirdCtrl'
+		})
 		.state('settingPersonal', {
 			url: '/settingPersonal',
 			templateUrl:'settingPersonal/_settingPersonal.html',

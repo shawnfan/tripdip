@@ -289,7 +289,7 @@ html,body {
 	margin: 20px;
 
 	.section {
-		margin: 10px 20px 10px 20px;
+		margin: 10px 20px 10px 50px;
 	}
 
 	.item{
@@ -307,7 +307,7 @@ html,body {
 		outline-style: none;
 	}
 	#nextBtn {
-		text-align: right;
+		text-align: left;
 	}
 
 	#step1 {
@@ -346,7 +346,7 @@ html,body {
 		span {
 			padding-left: 25%;
 		}
-
+		margin-top: 15px;
 	}
 	.date-pick{
 		background-color:transparent;
@@ -396,11 +396,95 @@ html,body {
 	.sheet {
 		margin: 10px 20px 10px 20px;
 		margin-top: 30px;
-		
+	}
+
+	#nextBtn {
+		margin-top: 10%;
+		margin-left: 5%;
 	}
 	
 }
 
+
+/* SETTING THIRD PAGE*/
+#setting-third-page {
+	margin: 50px;
+	font-family: 'Roboto', sans-serif;
+	.section {
+		margin: 10px 20px 10px 20px;
+	}
+
+	z-index:1;
+	background-color: rgba(255,255,255,0.3);
+	height: 100%;
+	border-radius: 0px;
+	margin: 20px;
+	.item{
+		.slider {
+			width: 60%;
+			padding-left: 10%;
+		}
+		span {
+			padding-left: 25%;
+		}
+		margin-top: 15px;
+	}
+	.date-pick{
+		background-color:transparent;
+		input{
+			//font-size: 0.8em;
+			color: white;
+		}
+	}
+	.iconDiv {
+		text-align: center;
+		outline-style: none;
+	}
+	
+	#step1 {
+		text-align: center;
+		margin: 10px 20px -10px 20px;
+		font-size: 1.5em;
+	}
+
+	.divider {
+		width: 95%;
+		margin:  0 10px 0 10px;
+	}
+	.icon {
+		height: 30px;
+		width: auto;
+	}
+	.destText {
+		position: absolute;
+		margin-top: 5px;
+	}
+	.weekBtn {
+		margin-left: 0px;
+		margin-right: 25px;		
+	}
+
+	#tripTitle {
+		text-align: center;
+	}
+
+	#map {
+		z-index: 2;
+		height: 100%;
+		margin-right: 40px;
+		margin-top: 30px;
+	}
+
+	.sheet {
+		margin: 10px 20px 10px 20px;
+		margin-top: 30px;
+	}
+
+	#nextBtn {
+		margin: 0 30px 0 30px;
+	}
+	
+}
 
 /* SETTING PERSONALITY PAGE*/
 #setting-personality-page {

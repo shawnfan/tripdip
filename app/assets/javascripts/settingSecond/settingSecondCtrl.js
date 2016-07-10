@@ -55,6 +55,19 @@ function($scope){
 		if ($scope.shoping > 100) {
 			count++;
 		}
+		
+		if ($scope.sports > 100) {
+			count++;
+		}
+		if ($scope.art > 100) {
+			count++;
+		}
+		if ($scope.romantic > 100) {
+			count++;
+		}
+		if ($scope.active > 100) {
+			count++;
+		}
 
 		if (count >= 4) {
 			count = 4;
