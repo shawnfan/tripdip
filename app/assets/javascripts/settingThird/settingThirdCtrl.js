@@ -3,7 +3,7 @@ angular.module('angularApp')
 .controller('SettingThirdCtrl', [
 '$scope',
 function($scope){
-	$scope.map = "https://s3.amazonaws.com/tripdip/v2/route0.jpg";
+	$scope.map = "https://s3.amazonaws.com/tripdip/v2/route4.jpg";
 	$scope.mainColor = "#F38181";
 	$scope.days = [
 		"  Monday (8/1)    ",
