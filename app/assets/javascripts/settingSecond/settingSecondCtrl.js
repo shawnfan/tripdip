@@ -28,7 +28,7 @@ function($scope){
 		"https://s3.amazonaws.com/tripdip/v2/route3.jpg",
 		"https://s3.amazonaws.com/tripdip/v2/route4.jpg"
 	];
-
+	$scope.sheetTrigger = false;
 	$scope.updateMap = function() {
 		var count = 0;
 		if ($scope.history > 100) {
@@ -60,6 +60,10 @@ function($scope){
 			count = 4;
 		}
 		$scope.map = $scope.routes[count];
-		console.log($scope.map);
+		
+		if (count == 4) {
+			$scope.sheetTrigger = true;
+		}
+		
 	};
 }]);

@@ -41,8 +41,8 @@
          <img ng-src="{{map}}" class="md-whiteframe-7dp" width="100%">
       </div>
    </div>
-   <div flex="50" >
-      <div class="sheet" layout="column">
+   <div flex="50" ng-if="sheetTrigger" >
+      <div class="sheet" layout="column" >
          <md-content flex>
             <md-list>
                <md-subheader class="md-no-sticky">
